@@ -1,12 +1,10 @@
 {
     "name": "fengqiaoguke/demo",
-    "require-dev": {
-        "demo": "1.0"
-    },
+    "type": "project",
     "authors": [
         {
             "name": "fengqiao2",
-            "email": "fengqiao@ata.net.cn"
+            "email": "fengqiao@fengqiaoju.com"
         }
     ],
     "require": {
